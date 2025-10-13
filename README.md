@@ -34,7 +34,7 @@ Task1_Text_Summarizer/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/galaxy00-7/Text-Summarizer.git
+git clone https://github.com/raman00-7/Text-Summarizer.git
 cd Text-Summarizer/Task1_Text_Summarizer
 ```
 
