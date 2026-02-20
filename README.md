@@ -56,7 +56,7 @@ streamlit run Task1_Text_Summarizer.py
 ## 🧪 Example
 
 ### Input:
-> Artificial Intelligence (AI) is revolutionizing the modern world...
+> Artificial Intelligence (AI) is revolutionizing the modern world.
 
 ### Output Summary:
 > AI is transforming industries with automation. NLP helps machines understand human language...
